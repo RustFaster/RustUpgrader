@@ -1,0 +1,17 @@
+D:\CSharp\game\engine\bin\x86\Debug\engine.exe.config
+D:\CSharp\game\engine\bin\x86\Debug\engine.exe
+D:\CSharp\game\engine\bin\x86\Debug\engine.pdb
+D:\CSharp\game\engine\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+D:\CSharp\game\engine\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\CSharp\game\engine\bin\x86\Debug\Microsoft.DirectX.dll
+D:\CSharp\game\engine\bin\x86\Debug\Microsoft.DirectX.xml
+D:\CSharp\game\engine\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+D:\CSharp\game\engine\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\CSharp\game\engine\obj\x86\Debug\engine.csproj.AssemblyReference.cache
+D:\CSharp\game\engine\obj\x86\Debug\engine.Form1.resources
+D:\CSharp\game\engine\obj\x86\Debug\engine.Properties.Resources.resources
+D:\CSharp\game\engine\obj\x86\Debug\engine.csproj.GenerateResource.cache
+D:\CSharp\game\engine\obj\x86\Debug\engine.csproj.CoreCompileInputs.cache
+D:\CSharp\game\engine\obj\x86\Debug\engine.csproj.Up2Date
+D:\CSharp\game\engine\obj\x86\Debug\engine.exe
+D:\CSharp\game\engine\obj\x86\Debug\engine.pdb
